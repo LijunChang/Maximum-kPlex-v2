@@ -2,12 +2,10 @@
 
 This repository implements the maximum k-plex computation algorithm kPlexT proposed in our SIGMOD 2024 paper. If you are using the code, please cite our paper.
 <pre>
-Lijun Chang:
+Lijun Chang, Kai Yao:
 Maximum k-Plex Computation: Theory and Practice.
 Proc. ACM Manag. Data 2(1): 63:1-63:26 (2024)
 </pre>
-
-This repository is the same as https://github.com/LijunChang/Maximum-kPlex-v2
 
 ## Compile the code
 
